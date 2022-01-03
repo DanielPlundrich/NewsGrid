@@ -97,7 +97,7 @@ ul li a{
     width: 100%;
     top: 0;
     left: 0;
-    background: url(img/picture_\ 2.jpg) no-repeat center center/cover;
+    background: url(/img/top_image.jpg) no-repeat center center/cover;
     opacity: 0.4;
     height: 100%;
 }
